@@ -14,7 +14,7 @@ const studentList = 'ul';
 searchDiv.id = 'searchBarDiv';
 searchDiv.innerHTML = `
    <label for='search' class='student-search'>
-      <input id='search' placeholder='Search by name'>
+      <input id='search' placeholder='Search by name...'>
       <button type='button'><img src='img/icn-search.svg' alt='Search icon'></button>
    </label>
 `;
